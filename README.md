@@ -1,12 +1,6 @@
 # Agente-de-IA---Mentor-de-Carreira-em-Tech
 Agente de IA que trabalha na identificação de perfil, orientação e direcionamento à quem objetiva ingressar e desenvolver-se no mundo Tech
 
----
-
-### Minha recomendação
-
-Como este é um desafio da DIO, eu faria um README um pouco mais robusto:
-
 ```markdown
 # Agente de IA - Mentor de Carreira em Tecnologia
 
